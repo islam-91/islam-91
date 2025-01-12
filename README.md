@@ -25,22 +25,30 @@ Check out my portfolio: [shafiq91.vercel.app](https://shafiq91.vercel.app/)
 ## Skills & Technologies
 
 ### Frontend Development
-- **HTML5** | **CSS3** | **JavaScript** | **TypeScript**
-- **React.js** | **Next.js** | **Vue.js** | **Redux** | **React Query**
-- **Tailwind CSS** | **Bootstrap** | **SASS** | **Styled Components**
-- **Responsive Web Design** | **CSS Grid** | **Flexbox**
-- **Cross-Browser Compatibility** | **SEO Optimization**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)  
+![CSS Grid](https://img.shields.io/badge/CSS_Grid-000000?style=flat&logo=css3&logoColor=white) ![Flexbox](https://img.shields.io/badge/Flexbox-FF6600?style=flat&logo=css3&logoColor=white)  
+![Cross-Browser Compatibility](https://img.shields.io/badge/Cross-Browser_Compatibility-5C6BC0?style=flat&logo=internet-explorer&logoColor=white) ![SEO Optimization](https://img.shields.io/badge/SEO_Optimization-FF5722?style=flat&logo=google&logoColor=white)
 
 ### Backend Development
-- **Node.js** | **Express.js** | **PHP** | **MySQL** | **MongoDB**
-- **JWT Authentication** | **RESTful APIs** | **GraphQL**
-- **Payment Integrations**: Stripe, PayPal, Bkash, Nagad, Rocket
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat&logo=swagger&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 ### Tools & Workflow
-- **Git** | **GitHub** | **GitLab**
-- **NPM** | **Webpack** | **Babel**
-- **Postman** | **Jira** | **Trello**
-- **Figma** | **VS Code** | **Docker** | **CI/CD**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)  
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)  
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-008C00?style=flat&logo=gitlab-ci&logoColor=white)
+
+---
 
 ## Projects
 
@@ -143,32 +151,22 @@ A web app to **generate student result sheets**, calculate **GPA**, **letter gra
   Udemy | **2023**
 
 - **JavaScript Algorithms and Data Structures**  
-  FreeCodeCamp | **2023**
-
-- **Node.js and Express.js - Full Course**  
-  Udemy | **2023**
+  FreeCodeCamp | **2022**
 
 ---
 
 ## Contact
 
-Feel free to reach out if you want to discuss potential collaborations, projects, or just connect!
-
+You can reach me via:
 - **Email**: [shajol234sj@gmail.com](mailto:shajol234sj@gmail.com)
-- **Portfolio**: [shafiq91.vercel.app](https://shafiq91.vercel.app/)
+- **LinkedIn**: [Shafiqul Islam](https://www.linkedin.com/in/shafiqul-islam/)
 - **GitHub**: [shajol234sj](https://github.com/shajol234sj)
-- **LinkedIn**: [Shafiqul Islam](https://www.linkedin.com/in/shafiqul-islam)
-
-## Connect with Me
-
-I am always open to networking, learning, and collaborating. If you’re interested in discussing new opportunities, or if you want to talk about web development, feel free to drop me a message!
-
-### Huge Icons
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shajol234sj)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafiqul-islam)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shajol234sj@gmail.com)
 
 ---
 
-Thank you for taking the time to visit my portfolio. I look forward to hearing from you!
+## Connect with Me
+
+- [Twitter](https://twitter.com/shajol234sj)
+- [Instagram](https://www.instagram.com/shajol234sj/)
+- [LinkedIn](https://www.linkedin.com/in/shafiqul-islam/)
+- [Portfolio](https://shafiq91.vercel.app/)
