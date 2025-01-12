@@ -20,7 +20,7 @@ Since starting my development journey, I’ve worked on various projects that sh
 
 My goal is to build applications that are **accessible**, **performant**, and **easy to maintain** while focusing on **clean code** and **great UX/UI design**.
 
-Check out my portfolio: [shafiq91.vercel.app](https://shafiq91.vercel.app/)
+Check out my portfolio: [shafiq91.vercel.app](https://islam-91.vercel.app/)
 
 ## Skills & Technologies
 
@@ -160,7 +160,7 @@ A web app to **generate student result sheets**, calculate **GPA**, **letter gra
 You can reach me via:
 - **Email**: [shajol234sj@gmail.com](mailto:shajol234sj@gmail.com)
 - **LinkedIn**: [Shafiqul Islam](https://www.linkedin.com/in/shafiqul-islam/)
-- **GitHub**: [shajol234sj](https://github.com/shajol234sj)
+- **GitHub**: [shajol234sj](https://github.com/islam-91)
 
 ---
 
@@ -169,4 +169,4 @@ You can reach me via:
 - [Twitter](https://twitter.com/shajol234sj)
 - [Instagram](https://www.instagram.com/shajol234sj/)
 - [LinkedIn](https://www.linkedin.com/in/shafiqul-islam/)
-- [Portfolio](https://shafiq91.vercel.app/)
+- [Portfolio](https://islam-91.vercel.app/)
