@@ -14,6 +14,7 @@ Welcome to my portfolio! I'm **Shafiqul Islam**, a Senior Frontend Web Developer
 
 ## About Me
 
+![About Me Icon](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-user-business-flaticons-lineal-color-flat-icons.png)  
 I am a passionate web developer focused on delivering **high-quality web applications** that meet user needs and exceed expectations. My mission is to combine **creativity** with **technology** to create exceptional user experiences. 
 
 Since starting my development journey, I’ve worked on various projects that showcase my ability to create dynamic, responsive, and scalable web applications. Whether working on **e-commerce platforms**, **real-time chat applications**, or **interactive web tools**, I ensure that each project is built with the latest technologies and best practices in mind.
@@ -29,6 +30,7 @@ Check out my portfolio: [shafiq91.vercel.app](https://shafiq91.vercel.app/)
 
 ## Skills & Technologies
 
+![Skills Icon](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-skills-curriculum-vitae-flat-flat-juicy-fish.png)  
 ### Frontend Development
 - **HTML5** | **CSS3** | **JavaScript** | **TypeScript**
 - **React.js** | **Next.js** | **Vue.js** | **Redux** | **React Query**
@@ -50,6 +52,7 @@ Check out my portfolio: [shafiq91.vercel.app](https://shafiq91.vercel.app/)
 ## Projects
 
 ### 1. [Sky VC - Real-time Chat Application](https://github.com/shajol234sj/SkyVC)
+![Project Icon](https://img.icons8.com/ios-filled/50/000000/chat.png)  
 A **real-time chat application** built with **React.js** and **Node.js**. This project integrates **WebRTC** for video/audio calls, **Socket.io** for real-time communication, and a responsive design to ensure the app works seamlessly on mobile and desktop.
 
 #### Key Features:
@@ -67,6 +70,7 @@ A **real-time chat application** built with **React.js** and **Node.js**. This p
 ---
 
 ### 2. [Boo-Ko - E-commerce Platform](https://github.com/shajol234sj/Boo-Ko)
+![E-commerce Icon](https://img.icons8.com/ios-filled/50/000000/shopping-cart.png)  
 An **e-commerce platform** with **product management**, **user authentication**, and **payment integration** using **Stripe** and **PayPal**. Admins can add, edit, and delete products, while users can browse products, add them to the cart, and complete purchases.
 
 #### Key Features:
@@ -85,6 +89,7 @@ An **e-commerce platform** with **product management**, **user authentication**,
 ---
 
 ### 3. [Shajol Store - Online Store](https://github.com/shajol234sj/ShajolStore)
+![Store Icon](https://img.icons8.com/ios-filled/50/000000/shop.png)  
 A fully functional **online store** with a multi-step product addition form, order management system, and multiple payment options. Built using **PHP**, **MySQL**, and **Tailwind CSS**, this project integrates payment methods like **Bkash**, **Nagad**, and **Rocket**.
 
 #### Key Features:
@@ -102,6 +107,7 @@ A fully functional **online store** with a multi-step product addition form, ord
 ---
 
 ### 4. [Student Result Sheet Generator](https://github.com/shajol234sj/ResultSheet)
+![Result Icon](https://img.icons8.com/ios-filled/50/000000/grade.png)  
 A web app to **generate student result sheets**, calculate **GPA**, **letter grades**, and **grade points** based on marks. This project uses **PHP** for backend logic and **MySQL** for database management.
 
 #### Key Features:
@@ -119,6 +125,7 @@ A web app to **generate student result sheets**, calculate **GPA**, **letter gra
 ## Professional Experience
 
 ### Senior Frontend Developer
+![Experience Icon](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-work-business-flat-flat-juicy-fish.png)  
 **Freelance Web Developer** | **August 2022 - Present**
 - Designed and developed multiple client-facing applications using **React.js** and **Next.js**.
 - Collaborated with UI/UX designers to build visually appealing and user-friendly interfaces.
@@ -127,6 +134,7 @@ A web app to **generate student result sheets**, calculate **GPA**, **letter gra
 - Ensured responsive design for mobile-first experiences and optimized web performance.
 
 ### Frontend Developer
+![Work Icon](https://img.icons8.com/ios-filled/50/000000/working-at-a-desk.png)  
 **XYZ Web Solutions** | **March 2021 - July 2022**
 - Built dynamic, single-page applications using **React.js** and **Redux**.
 - Developed custom UI components using **Tailwind CSS** and **Styled Components**.
@@ -137,6 +145,7 @@ A web app to **generate student result sheets**, calculate **GPA**, **letter gra
 
 ## Education
 
+![Education Icon](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-education-education-flat-flat-juicy-fish.png)  
 - **Bachelor of Science in Computer Science**  
   **University of Dhaka** | **2018 - 2022**
 
@@ -144,6 +153,7 @@ A web app to **generate student result sheets**, calculate **GPA**, **letter gra
 
 ## Certifications
 
+![Certification Icon](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-certification-business-flaticons-lineal-color-flat-icons.png)  
 - **React - The Complete Guide (incl Hooks, React Router, Redux)**  
   Udemy | **2023**
 
@@ -157,6 +167,7 @@ A web app to **generate student result sheets**, calculate **GPA**, **letter gra
 
 ## Contact
 
+![Contact Icon](https://img.icons8.com/ios-filled/50/000000/contacts.png)  
 Feel free to reach out if you want to discuss potential collaborations, projects, or just connect!
 
 - **Email**: [shajol234sj@gmail.com](mailto:shajol234sj@gmail.com)
@@ -166,9 +177,9 @@ Feel free to reach out if you want to discuss potential collaborations, projects
 
 ## Connect with Me
 
+![Connect Icon](https://img.icons8.com/ios-filled/50/000000/facebook.png)  
 I am always open to networking, learning, and collaborating. If you’re interested in discussing new opportunities, or if you want to talk about web development, feel free to drop me a message!
 
 ---
 
 Thank you for taking the time to visit my portfolio. I look forward to hearing from you!
-
