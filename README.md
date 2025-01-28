@@ -31,15 +31,15 @@ I'm dedicated to crafting high-quality code and delivering **user-friendly** exp
 
 ## 💼 **Featured Projects**  
 
-### 🌐 **[SKY VC](https://github.com/shafiq91/sky-vc)**  
+### 🌐 **[SKY VC](https://github.com/islam-91/sky-vc)**  
 A real-time video conferencing app featuring modern UI, integrated chat, and high-quality streaming.  
 🔗 **Live Demo**: [Click Here](https://example.com)  
 
-### 🛒 **[Boo-Ko](https://github.com/shafiq91/boo-ko)**  
+### 🛒 **[Boo-Ko](https://github.com/islam-91/boo-ko)**  
 A responsive e-commerce platform with product management, order tracking, and dynamic search.  
 🔗 **Live Demo**: [Click Here](https://example.com)  
 
-### 🛠️ **[Shajol Store](https://github.com/shafiq91/shajol-store)**  
+### 🛠️ **[Shajol Store](https://github.com/islam-91/shajol-store)**  
 A feature-rich product management system with a multi-step form and real-time updates.  
 🔗 **Live Demo**: [Click Here](https://example.com)
 
@@ -48,8 +48,8 @@ A feature-rich product management system with a multi-step form and real-time up
 ## 📊 **GitHub Stats**  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shafiq91&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiq91&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=islam-91&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islam-91&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -57,7 +57,7 @@ A feature-rich product management system with a multi-step form and real-time up
 ## 🤝 **Let's Connect**  
 
 <div align="center">
-  <a href="https://shafiq91.vercel.app/" target="_blank">
+  <a href="https://islam-91.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:shajol234sj@gmail.com" target="_blank">
