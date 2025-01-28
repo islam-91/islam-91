@@ -49,7 +49,6 @@ A feature-rich product management system with a multi-step form and real-time up
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shafiq91&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafiq91&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiq91&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
